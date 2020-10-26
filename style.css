@@ -1,0 +1,22 @@
+body {
+  background-color: teal;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: Trattatello, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bougainvillea {
+  background-color: #87005f;
+}
+
+img {
+  width: 75%;
+  : center;
+}
+
