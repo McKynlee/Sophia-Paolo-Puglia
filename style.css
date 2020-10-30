@@ -11,7 +11,7 @@ h1 {
   padding-bottom: 10px;
 }
 
-.bougainvillea {
+header {
   background-color: #87005f;
 }
 
@@ -20,3 +20,14 @@ img {
   : center;
 }
 
+.highlights {
+  
+}
+
+#main-text {
+  
+}
+
+footer {
+ color: blue; 
+}
