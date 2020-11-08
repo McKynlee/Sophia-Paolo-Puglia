@@ -67,6 +67,10 @@ footer {
 }
 
 .billboard {
- background: #999;
+ background: #CCC;
  text-align: center;
+}
+
+.billboard p {
+  margin-top: 0;
 }
