@@ -35,9 +35,14 @@ h1 {
   color: #fff;
 }
 
-img {
-  width: 75%;
-  : center;
+.billboard {
+ background: #CCC;
+ text-align: center;
+ padding: 20px;
+}
+
+.billboard p {
+  margin-top: 0;
 }
 
 .highlights {
@@ -46,10 +51,6 @@ img {
 
 #main-text {
   
-}
-
-footer {
- color: blue; 
 }
 
 .img1 {
@@ -70,12 +71,11 @@ footer {
   display: table;
 }
 
-.billboard {
- background: #CCC;
- text-align: center;
- padding: 20px;
+footer {
+ color: blue; 
 }
 
-.billboard p {
-  margin-top: 0;
+.main-footer {
+  background-color: #87005f;
+  box-shadow: 0 1px 3px #333;
 }
