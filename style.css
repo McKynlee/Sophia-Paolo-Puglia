@@ -54,10 +54,12 @@ footer {
 
 .img1 {
   float: left;
+  width: 50%;
 }
 
 .img2 {
   float: right;
+  width: 50%;
 }
 
 .clearfix::after {
@@ -69,6 +71,7 @@ footer {
 .billboard {
  background: #CCC;
  text-align: center;
+ padding: 20px;
 }
 
 .billboard p {
