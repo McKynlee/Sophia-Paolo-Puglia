@@ -55,6 +55,10 @@ h1 {
   padding: 40px 5%;
 }
 
+ul {
+list-style-position: inside; 
+}
+
 .img1 {
   float: left;
   width: 45%;
