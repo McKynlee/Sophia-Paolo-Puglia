@@ -52,7 +52,7 @@ h1 {
 }
 
 #main-text {
-  padding: 10px 5%;
+  padding: 40px 5%;
 }
 
 .img1 {
@@ -77,6 +77,11 @@ footer {
  color: blue; 
 }
 
+.copywrite {
+  float: left;
+  color: white;
+}
+
 .main-footer {
   background-color: #87005f;
   box-shadow: 0 1px 3px #333;
@@ -84,11 +89,21 @@ footer {
   display: block;
 }
 
+.main-footer a {
+  color: white;
+  font-size: 12px;
+}
+
 .footer-nav {
   list-style: none;
+  float: right;
 }
 
 .footer-nav li {
   list-style: none;
-  float: right;
+  padding:
+}
+
+.footer-nav li + li {
+  margin-left: 10px;
 }
